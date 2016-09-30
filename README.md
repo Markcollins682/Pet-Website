@@ -1,5 +1,5 @@
 ## NEW PET WEBSITE
-#### In Honor of my Beautiful Ferret, Mrs. Beular
+#### In Honor of my Beautiful Ferret, Mrs. Beuller
 
 **Author**
 
