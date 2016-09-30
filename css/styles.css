@@ -11,12 +11,16 @@ body {
     
 }
 h1 {
-    color:blanchedalmond
+    color:chartreuse;
+    font-family: 'Exo', sans-serif;
 }
 p {
-    color:cyan;
-    font-family: 'Gloria Hallelujah', cursive;
+    color:blueviolet;
+    font-family: 'Philosopher', sans-serif;
     font-size: 19;
+    background-color:cornsilk;
+    opacity: .4;
+    
 }
 
 .text-center {
